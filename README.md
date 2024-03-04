@@ -1,4 +1,5 @@
 # Conversor de Celsius para Fahrenheit em JavaScript
+![image](https://github.com/EnzoCdutra/CelsiusToFahrenheitConverter/assets/128257870/4b370d7d-27f8-4506-87ad-f3bbaa80e3ce)
 
 Este é um simples projeto em JavaScript que converte temperaturas de Celsius para Fahrenheit. Ele consiste em uma função `celsiusToFahrenheit` que recebe um valor em Celsius como parâmetro e retorna o equivalente em Fahrenheit.
 
